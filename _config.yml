@@ -1,2 +1,3 @@
 name: Amin Seyed Haeri
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
